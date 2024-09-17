@@ -6,7 +6,7 @@ Web Designer & UI/UX Designer @ScalesFourth Global Technologies PVT.LTD
 - 🌱 I’m currently learning Figma.
 - 👯 All of my projects are available at https://github.com/JenishMT?tab=repositories
 - 💬 Ask me about  Javascript,CSS, SCSS, Figma, Adobe XD, PhotoSho.
-- 😄 Pronouns: Jeni
+- 😄 Pronouns: Jenish
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jenish_mt) 
 
